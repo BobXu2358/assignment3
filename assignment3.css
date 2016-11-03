@@ -1,1 +1,25 @@
 /*styles for assignment 3*/
+body {
+  text-align: center;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  background: lightcyan;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+.narrator {
+  font-size: 1.5em;
+  font-family: "Comic Sans MS";
+  margin: 5%;
+  color: crimson;
+}
+
+.info {
+  font-size: 1.2em;
+  text-align: justify;
+  margin-left: 2%;
+  letter-spacing: 2px;
+  line-height: 30px;
+}
