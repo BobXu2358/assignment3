@@ -26,7 +26,7 @@
         <?= $m; ?><br>
       <?php } ?>
     </p>
-    <p class="narrator">Then you just realize that you just really love cats, how dare human pet cats?<br>
+    <p class="narrator">Then you realize that you just really love cats, how dare human pet cats?<br>
       Therefore, you made cats larger than human.<br>
       <?php
         $cat->setSize("large");
@@ -40,7 +40,7 @@
     </p>
     <p class = "narrator">
       As human population growth has became a problem, you decide to make them become marine mammals, so they have less
-      pressure about their living space as well as making this change a compensate for not being able to pet cats anymore.
+      pressure about their living space as well as making this change a compensate for not being able to pet cats any more.
       <br>You look at these mammals again:
     </p>
     <?php
@@ -55,7 +55,7 @@
     <p class = "narrator">
       After losing cats, humans feel so lonely. You as the creator cannot watch them living in the days missing the cats.
       You figured sea otters are as cute as cats when they are standing like humans with two foot and they are marine mammals
-      like new humans so you make them two legs.<br>
+      like new humans, so you make them have two legs instead of four.<br>
       Finally, you look at these mammals:
     </p>
     <?php
@@ -67,7 +67,7 @@
       <?php } ?>
     </p>
   <p class = "narrator">
-    Thanks to their kind-heated creator, they are all living happily now.
+    Thanks to their kind-hearted creator, they are all living happily now.
   </p>
   </body>
 </html>
